@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from bs4 import BeautifulSoup4
+from bs4 import BeautifulSoup
 
 # Set up the webdriver
 driver = webdriver.Chrome(
@@ -26,7 +26,15 @@ soup = BeautifulSoup(html_source, 'lxml')
 card = soup.findAll('app-competition-listing',
                     class_='ng-tns-c195-1 ng-star-inserted')
 
-print(card)
+
+
+for i in card:
+    name=i.h2.text
+    place=i.p.text
+    print(name)
+    print("\n")
+    print(place)
+
 
 
 # Close the browser
