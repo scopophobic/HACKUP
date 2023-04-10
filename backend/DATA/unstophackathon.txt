@@ -1,0 +1,20 @@
+hackathon name : Code-A-Thon
+location/college :Ajay Kumar Garg Engineering College (AKGEC), Ghaziabad
+hackathon name : Pixel Perfect UI/ UX Challenge
+location/college :SRM Institute of Science and Technology (SRMIST), Ramapuram Campus
+hackathon name : "Hack for Humanity - Empowering Communities through Technology"
+location/college :Jadavpur University (JU), Kolkata
+hackathon name : Inventhon
+location/college :Maharaja Agrasen College (MAC), University of Delhi (DU), Delhi
+hackathon name : Webathon
+location/college :Vasavi College of Engineering (VCE), Hyderabad
+hackathon name : Gen AI Hackathon
+location/college :Contlo
+hackathon name : Pravaha_Codethon_Coding Competition
+location/college :Rajeev Gandhi Memorial College Of Engineering and Technology (RGMCET), Kurnool
+hackathon name : Web Surge
+location/college :Vivekananda Institute of Professional Studies (VIPS), Delhi
+hackathon name : ACM- CODE TWIST
+location/college :Shaheed Sukhdev College of Business Studies (SSCBS), University of Delhi (DU), Delhi
+hackathon name : Hack For Climate Hackathon
+location/college :Institute of Chemical Technology (ICT) Mumbai, IndianOil Odisha Campus, Bhubaneswar
