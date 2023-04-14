@@ -28,7 +28,8 @@ def unstophackathons():
         place = i.p.text
         f.write(f"hackathon name : {name}\n")
         f.write(f"location/college :{place}\n")
-        print(f'FILE CREATED')
+    
+    print(f'FILE CREATED')
 
 
     # Close the browser
